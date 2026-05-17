@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I'm a Software Engineer venturing through various technologies.
-- 🌱 Learning something new everyday
-- 👯 Linux and full stack enthusiast
-- 💬 Ask me about NodeJS, VueJS, Linux
+- 🔭 Senior Software Engineer building AI-powered platforms and scalable systems
+- ⚙️ Experienced in JavaScript, distributed systems, and full-stack development
+- 🧠 Currently working on generative AI, data platforms, and developer experiences
+- 🌱 Always curious about systems, performance, and how things work at scale
+- 💬 Ask me about Node.js, Vue.js, system design, and frontend architecture
 - 📫 How to reach me: Checkout my portfolio **[here](https://poo17nam.github.io/profile)**
-- 😄 Happiness is when you spend a day to find the problem and you fix it with one line of code.
-- ⚡ Fun fact: Everyone can code!
+- 😄 Happiness is solving a complex problem with a simple solution
+- ⚡ Fun fact: The best systems are the ones that feel simple
